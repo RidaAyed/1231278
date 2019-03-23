@@ -1,2 +1,3 @@
+[[file:0.jpg]]
 * Sed 
 bibendum.
