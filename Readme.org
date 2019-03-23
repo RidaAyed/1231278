@@ -13,5 +13,5 @@ bibendum.
     plot data u 1:2 with linespoints
 #+end_src
 
-#+caption: chart
+#+RESULTS: fig:chart
 [[file:chart.png]]
