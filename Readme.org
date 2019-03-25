@@ -9,9 +9,9 @@ bibendum.
 | 2057-01-04 | 5 |
 | 2057-01-05 | 8 |
 
-#+begin_src gnuplot :var data=myTable :file chart.png
+#+begin_src gnuplot :var data=myTable :file chart.png :exports both
     plot data u 1:2 with linespoints
 #+end_src
 
-#+RESULTS: fig:chart
+#+RESULTS:
 [[file:chart.png]]
