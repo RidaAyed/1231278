@@ -1,5 +1,5 @@
 [[file:0.jpg]]
-* Sed 
+* XSed 
 bibendum.
 
 #+tblname: myTable
