@@ -1,6 +1,6 @@
 [[file:0.jpg]]
 * XSedSignedX 
-bibendum.
+bibendum..
 
 #+tblname: myTable
 | 2057-01-01 | 1 |
