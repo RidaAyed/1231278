@@ -1,5 +1,5 @@
 [[file:0.jpg]]
-* XSed 
+* XSedSigned 
 bibendum.
 
 #+tblname: myTable
