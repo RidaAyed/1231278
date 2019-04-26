@@ -9,7 +9,10 @@ bibendum
 | 2057-01-05 | 8 |
 
 #+begin_src gnuplot :var data=myTable :file chart.png :exports both
-    plot data u 1:2 with linespoints
+  set xdata time
+  set style data linespoints
+  set timefmt "%Y-%m-%d"
+  plot data u 1:2
 #+end_src
 
 #+RESULTS:
